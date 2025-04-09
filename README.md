@@ -114,8 +114,6 @@
 
 ###
 
-<p align="left">
 ![Stand With Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)
-</p>
 
 ###
