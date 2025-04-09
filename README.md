@@ -106,10 +106,16 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/haneenakram/haneenakram/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haneenakram/haneenakram/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haneenakram/haneenakram/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/haneenakram/haneenakram/output/github-snake.svg" />
+</picture>
 
 ###
 
-<p align="left">[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)</p>
+<p align="left">
+![Stand With Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)
+</p>
 
 ###
