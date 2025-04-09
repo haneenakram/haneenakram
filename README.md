@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Haneen Node.js Explorer: Backend-Focused MERN Developer & Student from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Haneen, Node.js Explorer: Backend-Focused MERN Developer & Student from Egypt</h2>
 
 ###
 
